@@ -3,7 +3,7 @@ title: "Stat 156: Causal Inference"
 subtitle: "UC Berkeley, Fall 2025"
 ---
 
-::::{grid} 1 1 1 1
+::::{grid} 1 2 2 2
 
 :::{card}
 :header: **Peng Ding**
